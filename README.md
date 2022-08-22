@@ -6,4 +6,4 @@
 <br/>
 <div><img align="left" src="https://github-readme-stats.vercel.app/api?username=iamsuyashpatel07&show_icons=true&locale=en" alt="iamsuyashpatel07" /></div>
 <br/>
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsuyashpatel07&" alt="iamsuyashpatel07" /></div>
+<div><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsuyashpatel07&" alt="iamsuyashpatel07" /></div>
