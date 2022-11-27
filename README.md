@@ -26,7 +26,7 @@ I love to learn new technolgies and to create new stuffs related to Web Developm
 
 - frontend: Bootstrap,Tailwind,React, MaterialUi ,NextJS.
 - backend: NodeJS, Flask
-- database: MongoDB, MySQL, Postgres.
+- database: MongoDB, MySQL.
 - devOps: firebase,Netlify,Vercel,Heroku.
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=iamsuyashpatel07&label=Profile%20views&color=0e75b6&style=flat" alt="iamsuyashpatel07" /> </div>
