@@ -36,4 +36,12 @@ I love to learn new technolgies and to create new stuffs related to Web Developm
 <div><img align="center"" src="https://github-readme-stats.vercel.app/api?username=iamsuyashpatel07&show_icons=true&locale=en" alt="iamsuyashpatel07" /></div>
 <br/>
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsuyashpatel07&" alt="iamsuyashpatel07" /></div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/suyash-patel-0b6199191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/serpensortia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+
+</p>
+
 </body>
