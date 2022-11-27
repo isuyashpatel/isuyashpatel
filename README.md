@@ -23,12 +23,13 @@ I love to learn new technolgies and to create new stuffs related to Web Developm
 
 ## Knows / Experience
 
-### 🕸️ Web Dev
+### 🕸️ Web/App Dev
 
-- frontend: Bootstrap,Tailwind,React, MaterialUi ,NextJS.
-- backend: NodeJS, Flask
-- database: MongoDB, MySQL.
-- devOps: firebase,Netlify,Vercel,Heroku.
+- Web Development: Bootstrap,Tailwind,React, MaterialUi ,NextJS.
+- App Development: React-native,Expo,native base.
+- Backend: NodeJS, Flask.
+- Database: MongoDB, MySQL.
+- DevOps: firebase,netlify,vercel,heroku.
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsuyashpatel07&show_icons=true&locale=en&layout=compact" alt="iamsuyashpatel07" /></div>
 <br/>
