@@ -2,6 +2,9 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suyash Patel </h1>
     <h3 align="center">Full Stack Developer || Technical Writer</h3>
      <h4 align="center">Experience :-  @Hyathi Technologies || @Skilzen || @ecellhbtu </h4>
+ 
+I am pre - final undergraduate student and a Web Developer with strong passion and dedication for self - improvement.
+I love to learn new technolgies and to create new stuffs related to Web Development.
 
 ## 👨‍💻 Currently learning
 
