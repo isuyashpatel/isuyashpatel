@@ -1,7 +1,7 @@
 <body>
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suyash Patel </h1>
 <div style="display:flex;flex-direction: row;">
-  <div>"https://images.weserv.nl/?url=avatars.githubusercontent.com/u/59373438?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"</div>
+  <div>["https://images.weserv.nl/?url=avatars.githubusercontent.com/u/59373438?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"]</div>
   <div>Suyash Patel</div>
 </div> 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=iamsuyashpatel07&label=Profile%20views&color=0e75b6&style=flat" alt="iamsuyashpatel07" /> </p>
