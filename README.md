@@ -1,6 +1,6 @@
 <body>
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suyash Patel </h1>
-<div style="display:inline;flex-direction: row;">
+<div style="display:inline;">
   <div><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/59373438?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" alt="pic"/></div>
   <div>Suyash Patel</div>
 </div> 
