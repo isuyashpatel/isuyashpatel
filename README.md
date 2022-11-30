@@ -40,9 +40,8 @@ I love to learn new technolgies and to create new stuffs related to Web Developm
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.pateldev.xyz/">
-<image src="https://drive.google.com/file/d/18DUjNfxmvnoAUtMASaW7Z-dklzlb_Fx5/view?usp=drivesdk" alt="pic" height="25px" width="25px" />
+<image src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0hmz13R4E88TUzL7semllpjXL9Kx6HLs0S5QeUQsVuReXu4V1cYYkB6gTr-aft2lRXgxFhsI3JLZN7YreZh1XBXifhydExUjVcUqQRyvHfDQtCOVP10ZOUIrZn3Lgr9EGr5dJaLnLnfaCoOHzGPpWEh5YfOHqYm_EUqttJLPN40TmXr4qJTy0-5bC/s320/img.png" alt="pic" height="25px" width="25px" />
 </a>
-<a href="https://www.linkedin.com/in/suyash-patel-0b6199191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
 <a href="https://leetcode.com/serpensortia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 
 </p>
