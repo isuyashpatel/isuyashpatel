@@ -7,25 +7,13 @@
 I am pre - final undergraduate student and a Web Developer with strong passion and dedication for self - improvement.
 I love to learn new technolgies and to create new stuffs related to Web Development.
 
-## 👨‍💻 Currently learning
 
-- Advanced C and C++.
-- Redux
-- Ethereum (Solidity) and Polygon.
-- Statistics
-
-## 👀 Looking for
-
-- Full stack gigs
-- Ethereum and/or polygon development
-- Mature projects with interesting open issues
-- Consultancy services for small to medium scale projects
 
 ## Knows / Experience
 
 ### 🕸️ Web/App Dev
 
-- Web Development: Bootstrap,Tailwind,React, MaterialUi ,NextJS.
+- Web Development: Bootstrap,Tailwind,React,Redux,MaterialUi,NextJS.
 - App Development: React-native,Expo,native base.
 - Backend: NodeJS, Flask.
 - Database: MongoDB, MySQL.
