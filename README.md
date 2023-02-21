@@ -19,7 +19,7 @@ I love to learn new technolgies and to create new stuffs related to Web Developm
 - Database: MongoDB, MySQL.
 - DevOps: firebase,netlify,vercel,heroku.
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsuyashpatel07&show_icons=true&locale=en&layout=compact" alt="iamsuyashpatel07" /><img align="center"" src="https://github-readme-stats.vercel.app/api?username=iamsuyashpatel07&show_icons=true&locale=en" alt="iamsuyashpatel07" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsuyashpatel07&show_icons=true&locale=en&layout=compact" alt="iamsuyashpatel07" /><spacer type="horizontal" width="5" height="5"></spacer><img align="center"" src="https://github-readme-stats.vercel.app/api?username=iamsuyashpatel07&show_icons=true&locale=en" alt="iamsuyashpatel07" /></div>
 <br/>
 <div></div>
 <br/>
