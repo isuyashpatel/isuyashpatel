@@ -4,7 +4,7 @@
     <h3 align="center">Aspiring Full Stack Developer</h3>
    
  
-I am final year undergraduate student and a Web Developer with strong passion and dedication for self - improvement.
+I am final year undergraduate student and a Developer with strong passion and dedication for self - improvement.
 I love to learn new technolgies and to create new stuffs related to Web Development.
 
 
