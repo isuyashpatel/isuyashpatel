@@ -4,9 +4,7 @@
     <h3 align="center">Aspiring Full Stack Developer</h3>
    
  
-I am final year undergraduate student and a Developer with strong passion and dedication for self - improvement.
-I love to learn new technolgies and to create new stuffs related to Web Development.
-
+Hey there 🙋‍♂️ MySelf Suyash and I'm 2023 undergrad with strong passionate toward technolgies.
 
 
 ## Knows / Experience
@@ -17,7 +15,7 @@ I love to learn new technolgies and to create new stuffs related to Web Developm
 - App Development: React-native,Expo,native base.
 - Backend: NodeJS, Flask.
 - Database: MongoDB, MySQL.
-- DevOps: firebase,netlify,vercel,heroku.
+- DevOps: firebase,netlify,vercel,heroku,Docker.
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuyashpatel&show_icons=true&locale=en&layout=compact" alt="isuyashpatel" />&nbsp;&nbsp;<img align="center"" src="https://github-readme-stats.vercel.app/api?username=isuyashpatel&show_icons=true&locale=en" alt="isuyashpatel" /></div>
 <br/>
