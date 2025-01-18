@@ -13,7 +13,7 @@
 - App Development: React-native,Expo,native base.
 - Backend: NodeJS, Flask.
 - Database: MongoDB, MySQL.
-- DevOps: firebase,netlify,vercel,heroku,Docker, aws, gcp, azure. 
+- DevOps: firebase, netlify, vercel,          heroku, Docker, aws, gcp, azure. 
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuyashpatel&show_icons=true&locale=en&layout=compact" alt="isuyashpatel" />&nbsp;&nbsp;<img align="center"" src="https://github-readme-stats.vercel.app/api?username=isuyashpatel&show_icons=true&locale=en" alt="isuyashpatel" /></div>
 <br/>
